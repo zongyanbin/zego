@@ -1,0 +1,21 @@
+{
+    "name": "zongyanbin/zego",
+    "description": "zego composer plugin package",
+    "type": "1",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zongyanbin\\Zego\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zongyanbin",
+            "email": "315635152@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
